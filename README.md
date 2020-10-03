@@ -23,8 +23,6 @@ This project consists of the following folders:
                        The "embedded_snip.c" receives signals from the host and send spikes to Loihi accordingly.
                        Here, the spikes are also readout from Loihi and send to the host process.
                    
- - data_visualization: 
-                     plot_encoder_data.py was used to create the figures from spike, wheel encoder, command and vision data, which were published in the Frontiers paper.
                       
 ![alt text](https://github.com/intel-nrc-ecosystem/robotic-demos/blob/master/hd_net_icub/system.png)
 
